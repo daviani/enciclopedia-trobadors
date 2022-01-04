@@ -6,6 +6,10 @@ Enciclopèdia Trobadors is an application that aims at gathering all the artists
 
 As a bonus, this project will allow me to learn front and back end development, as well as all the good practices (continuous deployment, continuous integration, functional and integration tests...).
 
+## Public roadmap
+
+https://trello.com/b/iOUlhhPu/enciclop%C3%A8dia-trobadors
+
 ## Available Scripts
 
 In the project directory, you can run:
