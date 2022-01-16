@@ -30,9 +30,36 @@
 
             ],
             "current-label_id": "d697fd95-6507-4126-97e7-bf4830b03bee"
+        },
+        {
+            "_id": "5a7c1b0b-a640-4b29-9cc7-e29c58ac5659",
+            "name": "Gyibaaw",
+            "image": "https://www.metal-archives.com/images/3/5/4/0/3540271446_logo.jpg?3335",
+            "describe": "\"Gyibaaw\" means \"Wolf\" in Tsimshian language. They call their style \"Tsimshian/Gitksan War Metal\" and much of their lyrics are sung in S'malygax, the language of the Tsimshian peoples.\n\nCompilation appearances:\n- \"Mutilation Rites\" on Death Rules Supreme - A Tribute to Mortem (Heavier Records / Acido Producciones, 2010)",
+            "country_id": "bac297ef-98d0-49af-a5c4-bc960ab35ff4",
+            "location": "Prince George, British Columbia",
+            "status_id": "cca2edaf-3034-4151-a58b-7811cfd0d716",
+            "formed_in": "2006",
+            "genres_id": [
+                "5d95fe7c-59d4-4e10-87bf-491f66e8b759"
+            ],
+            "themes_id": [
+                "436aea8e-ab45-4e63-bd15-126245e9a68b",
+                "e095bb30-f483-4ddd-8dd8-5af6bb6ab356",
+                "f19d75d1-595e-4e7e-8d92-bcd235dc6a4c",
+                "8b938ced-a150-41fd-8e10-5ac77ead8bed"
+
+            ],
+            "current-members-id": [
+                "3e557915-eb5f-4885-9251-e39c9922789e"
+            ],
+            "past-members-id": [
+
+            ],
+            "current-label_id": ""
         }
     ],
-    "discography": [
+    "discographies": [
         {
             "_id": "6bd2ded9-1e9d-401c-8b9b-fb5a4fce5d46",
             "band_id": "fa470851-80d9-4514-b57f-76055961e651",
@@ -57,6 +84,28 @@
                 "779bce7a-1787-4883-925b-e2316915f650"
             ],
             "reviews_id": "c4a9c85c-bf5d-4d7c-a86e-00257c4fb655"
+        },
+        {
+            "_id": "6cfd09ef-bbbf-4a94-a504-f51d81eaf42b",
+            "band_id": "5a7c1b0b-a640-4b29-9cc7-e29c58ac5659",
+            "name": "Ancestral War Hymns",
+            "image": "https://www.metal-archives.com/images/2/4/4/5/244540.jpg?2105",
+            "type_id": "e84a934c-2a53-4793-be98-70a18c164006",
+            "release": "June 24th, 2009",
+            "disc-id": "",
+            "format_id": "30270730-a38d-4da3-b02d-0026cbe6753a",
+            "track_id": [
+                "817e79b2-6707-4260-8ee0-85a3ded61a0c",
+                "5732ccfc-ffa5-462f-b582-1fc5deeffde8",
+                "4f260c65-d210-4a8e-ad50-062bcfec26ce",
+                "8057b6cc-3a98-4e28-9a75-2311895461c8",
+                "157895dd-ef44-42bb-98d5-d4bb8e9b29dc",
+                "c32f1502-6712-4c51-8e08-15b53761f007",
+                "ad42d91b-ddd7-42ea-ac08-3aa6446cef96",
+                "b2e8cffd-0409-4226-8135-6548fc49a579",
+                "ac4f1148-a294-4c55-86d1-8159c5d624ca"
+            ],
+            "reviews_id": ""
         }
     ],
     "members": [
@@ -117,6 +166,29 @@
             "location": "East Ham, London, England",
             "rip-date": "Mar 12th, 2013",
             "cause-of-death": "Multiple sclerosis"
+        },
+        {
+            "_id": "3e557915-eb5f-4885-9251-e39c9922789e",
+            "band_id": [
+                ""
+            ],
+            "past-band_id": [
+                "5a7c1b0b-a640-4b29-9cc7-e29c58ac5659"
+            ],
+            "name": "B. Dyck",
+            "realname": "B. Dyck",
+            "age": "",
+            "gender": "male",
+            "biography": "",
+            "story": "",
+            "instruments_id": [
+                "51bc6b97-e6eb-4854-bd2c-b1977fb28a3f",
+                "50a0cc87-3a53-43b3-b70c-19be4de58e94"
+            ],
+            "country_id": "bac297ef-98d0-49af-a5c4-bc960ab35ff4",
+            "location": "",
+            "rip-date": "",
+            "cause-of-death": ""
         }
     ],
     "labels": [
@@ -181,6 +253,10 @@
         {
             "_id": "83bc24bf-f74d-45d9-8776-179d0b331b6f",
             "label": "United States"
+        },
+        {
+            "_id": "bac297ef-98d0-49af-a5c4-bc960ab35ff4",
+            "label": "Canada"
         }
     ],
     "status": [
@@ -213,6 +289,10 @@
         {
             "_id": "e5635f61-7153-4acd-8835-abdffc398be0",
             "label": "Various"
+        },
+        {
+            "_id": "5d95fe7c-59d4-4e10-87bf-491f66e8b759",
+            "label": "Death/Black Metal"
         }
     ],
     "themes": [
@@ -239,6 +319,22 @@
         {
             "_id": "498a4923-cc6a-466c-b16d-c88379876ce5",
             "label": "Religion"
+        },
+        {
+            "_id": "436aea8e-ab45-4e63-bd15-126245e9a68b",
+            "label": "Ancient warfare"
+        },
+        {
+            "_id": "e095bb30-f483-4ddd-8dd8-5af6bb6ab356",
+            "label": "Indigenous culture"
+        },
+        {
+            "_id": "f19d75d1-595e-4e7e-8d92-bcd235dc6a4c",
+            "label": "Spirituality"
+        },
+        {
+            "_id": "8b938ced-a150-41fd-8e10-5ac77ead8bed",
+            "label": "Tsimshian heritage"
         }
     ],
     "types": [
@@ -251,78 +347,145 @@
         {
             "_id": "df8db2c5-1329-4a1c-8c0e-cd19552acc11",
             "label": "2CD"
+        },
+        {
+            "_id": "30270730-a38d-4da3-b02d-0026cbe6753a",
+            "label": "CD"
         }
     ],
-    "traks": [
+    "tracks": [
         {
             "_id": "34dd82b5-660d-4d83-bda7-2e3cef66951c",
             "track_number": 1.1,
             "title": "Senjutsu",
-            "lenght": "08:20",
+            "length": "08:20",
             "lyrics": "[Verse 1]\nBeat the warning the sound of the drums\nSet the beacons afire for them all\nCall to arms all the men far and wide\nHave to fight now for dynasty pride at stake\nThe invaders repel from the north\nKeep out nomads who came from the plains\nNorthern grasslands awash with them all\nBlocking the tribes that invade from the south of us\n\n[Chorus]\nRallying round to the call\nWe can hear far away are the sound of distant drums\nAnd they need everyone at the wall\nSo the day of our judgement has now begun to fall\n\n[Verse 2]\nSurvive on ledges bitten in dust\nKnowledge and virtue is stricken by lust\nReally believe that they’re coming for us\nDancing on graves of those who bled for us\nDriven away by our endless desire\nDefeat by anger and our greatest fire\nAttack again and try as they might\nHold them again and see them running\n\n[Guitar Solo]\n\n[Chorus]\nRallying round to the call\nWe can hear far away are the sound of distant drums\nAnd they need everyone at the wall\nSo the day of our judgement has now begun to fall\n\n[Bridge 1]\nHear them coming\nReady now we wait\nMust be steadfast\nMust be patient\nMust believe in\nThat we can win\nWhat will save us\nThe great wall\n\n[Verse 3]\nNow under siege have the real strength to hold them now\nHave to believe that we can repel them\nFaith in the years our ancestors taught us\nHave the belief that we can protect the wall\nTry if they can we will overthrow them\nFight to the last they can never own us\nBattle of wills we’ll fight to the last man\nHonour our dead so they never fought in vain\n\n[Guitar Solo]\n\n[Bridge 2]\nHold our fortune\nAvenge the merciful\nHold the great wall\nNever fall again\nArrows falling\nDark oblivion\nLive in spirit\nLive to tell our sons\n\n[Chorus]\nRallying round to the call\nWe can hear far away are the sound of distant drums\nAnd they need everyone at the wall\nSo the day of our judgement has now begun to fall\n\n[Guitar Solo]"
         },
         {
             "_id": "0e570911-96aa-467a-8e62-f52fd6b6c57e",
             "track_number": 1.2,
             "title": "Stratego",
-            "lenght": "04:59",
+            "length": "04:59",
             "lyrics": "How do you read a madman’s mind?\nTeach me the art of war\nFor I shall bring more\nThan you bargained for\n\nGive me an ultimatum\nThat I could not dream of\nSpills of a crying nation\nUpon my soul\n\nFor I have not a mortal soul\nThat you already know\nLook at my eyes\nThere’s no surprise\n\nOcean is black the devil’s track\nLooking beyond beneath the sea\nEye of the storm is here again\nBeen there before you were ever born\n\nBeyond the dark I feel the pain\nIt’s hidden but I can’t explain\nA cross to bear\nA heavy faith\nMy sorrow whispers\nTime again\n\nI hear you calling my name\nCome to claim my life again\nPray for me I’m almost there\nThe pain almost too much to bear\n\nI try to find my way back home\nTo feel the same again\nThe voice of nothing\nListened far too long\n\nLittle by little eat away\nI think I’ve lost my mind\nToo late to change now\nWhat I left behind\n\nHear me listen my call\nI am ready to fall\nLord hear me now – let me go\n\nOcean is black the devil’s track\nLooking beyond beneath the sea\nEye of the storm is here again\nBeen there before you were ever born\n\nBeyond the dark I feel the pain\nIt’s hidden but I can’t explain\nA cross to bear\nA heavy faith\nMy sorrow whispers\nTime again"
         },
         {
             "_id": "c3c66047-3782-40b3-9c85-0f30028d7713",
             "track_number": 1.3,
             "title": "The Writing on the Wall",
-            "lenght": "06:13",
+            "length": "06:13",
             "lyrics": "Across a painted desert lies a train of vagabonds\nAll that's left of what we were it's what we have become\nOnce our empires glorious but now the empire's gone\nThe dead gave us the time to live and now our time is done\n\nNow we are victorious, we've become our slaves\nA land of hope and glory building graveyards for the brave\n\nHave you seen the writing on the wall?\nHave you seen that writing?\nCan you see the riders on the storm?\nCan you see them riding?\nCan you see them riding?\n\nHolding on to fury is that all we ever know\nIgnorance our judge and jury all we've got to show\nFrom Hollywood to Babylon ~ holy war to kingdom come\nOn a trail of dust and ashes ~ when the burning sky is done\nA tide of change is coming and that is what you fear\nThe earthquake is a coming but you don't want to hear\nYou're just too blind to see\n\nHave you seen the writing on the wall?\nHave you seen that writing?\nCan you see the riders on the storm?\nCan you see them riding?\nCan you see them riding, riding next to you?\n\nHave you seen the writing on the wall?\nHave you seen that writing?\nCan you see the riders on the storm?\nCan you see them riding?\n\nHave you seen the writing on the wall?\nHave you seen that writing?\nCan you see the riders on the storm?\nCan you see them riding?\nCan you see them riding, riding next to you?"
         },
         {
             "_id": "7f2f581c-44bb-46c8-8dd4-ac54c5a38e2e",
             "track_number": 1.4,
             "title": "Lost in a Lost World",
-            "lenght": "09:313",
+            "length": "09:31",
             "lyrics": " [Verse 1]\nAll is not it seems to be on the outside\nSometimes what appears to be is a show\nWhat shows in the face is only a mirror\nWe all have some better places to go\n\n[Verse 2]\nWe don’t know just what we have ’til we’ve lost it\nUntil that time comes and know that it’s gone\nSo hard to say things that we should have uttered long ago\nTear myself away from thoughts in my head\n\n[Instrumental Break]\n\n[Verse 3]\nThe people worshiping the sun\nAnd all the children point up to the sky\nThey see the eagle as it floats on the wind\nAnd they follow with their spirits high\n\n[Verse 4]\nBuffalo roam on the plain\nWe walk into the flames but dance for rain\nThe hallowed dead in sacred ground and the elders\nAnd we wash away their sins for them\n\n[Pre-Chorus]\nFeel the spirits of the old ones standing proud upon their race\nAnd the testament to ancestors, that are never to retrace\nBurn the flame of innocence, as they ride into the sun\nThinking now of our forefathers that are lying dead upon\nHoly ground and sacred earth now\nRevisit stolen youth\n\n[Chorus 1]\nLost in a lost world\nBuried on sacred ground\nLost in a lost world\nLying on sacred ground\n\n[Instrumental Break]\n\n[Guitar Solos]\n\n[Chorus 1]\nLost in a lost world\nBuried on sacred ground\nLost in a lost world\nLying on sacred ground\n\n[Chorus 2]\nLost in a lost world\nStanding on sacred ground\nLost in a lost world\nLying on sacred ground\n\n[Outro]\nWill we ever heal our old wounds\nLike forever darkness worn\nFighting for their lives again\nSo come on now don’t be afraid\n\nThis is where destiny lies\nJust to let us breathe again\nPut upon this earth to wander\nAnd to walk, forever lost\n\nWith the ashes of our enemies\nTo live among our ghosts\nOf our past fear nothing\nLife is but a better path to joy\n\nNowhere to go nowhere to run\nOur whole nation overrun\nItself existence under threat\nAnd soon will be none of us left\n\nRemember names of all our dead now\nIn enemies that fled\nReaching for our sky forever free\nA sadness that is proud\n\nAs the clouds all drift away now\nUntil we meet again"
         },
         {
             "_id": "a4fdbc4d-a0be-41a3-bb47-6f80c6b5da27",
             "track_number": 1.5,
             "title": "Days of Future Past",
-            "lenght": "04:03",
+            "length": "04:03",
             "lyrics": "[Verse 1]\nA war in heaven in god’s rage\nHe put me in this burning cage\nHoly fury locks me in\nImprisoned by my deadly sin\nEvery hour the shadow king\nWonders what his clock will bring\nI’ve lived and loved and that’s for sure\nMy fatal quest forevermore\n\n[Chorus]\nThe days of future past to wander on the shore\nA king without a queen to die forevermore\nTo wander in the wasteland\nImmortal to the end\nWaiting for the judgement\nBut the judgement never ends\n\n[Verse 2]\nOnce crucified you forgave it all\nBut my own life condemned to fall\nWhere’s the glory in your name\nMy twisted soul still burns in flame\nHark you angels hear my call\nFather witness to my fall\nBetween the lines of sin and pain\nI walk the earth now doomed again\n\n[Chorus]\nThe days of future past to wander on the shore\nA king without a queen to die forevermore\nTo wander in the wasteland\nImmortal to the end\nWaiting for the judgement\nBut the judgement never ends\n\n[Guitar Solo]\n\n[Chorus]\nThe days of future past to wander on the shore\nA king without a queen to die forevermore\nTo wander in the wasteland\nImmortal to the end\nWaiting for the judgement\nBut the judgement never ends\n\n[Chorus]\nThe days of future past to wander on the shore\nA king without a queen to die forevermore\nTo wander in the wasteland\nImmortal to the end\nWaiting for the judgement\nBut the judgement never ends"
         },
         {
             "_id": "d0d4b4df-46df-43ee-aa75-83874ed22655",
             "track_number": 1.6,
             "title": "The Time Machine",
-            "lenght": "07:09",
+            "length": "07:09",
             "lyrics": "[Intro]\nPut to the sword by an impish whim\nFollow me now to a place we begin\nWrought with no anger, wrought with no fear\nDevilish children playing here\nHidden in silence, below barren waste\nConfusion hunger, am I still awake?\n\n[Verse 1]\nHave I ever told you about my time machine\nSit you down I’ll tell you everywhere I’ve been\nI have lived a long life, life extraordinaire\nLet me tell you about it, let me take you there\nDoes it really matter, it’s all in the mind\nLet me tell you about it, listen what you’ll find\n\n[Chorus]\nI am not a preacher, I am but a man\nYou cannot imagine what I’ve seen and done\n\n[Verse 2]\nI have lived a long life, I have seen the world\nI could tell you stories, hair will stand on end\nStand among the steeples, stand upon the walls\nI have seen a god’s face, I have no disgrace\nI have seen the gods cry, howling in the wind\nWhere do I get started, when can I begin\n\n[Chorus]\nI am not a preacher, I am but a man\nYou cannot imagine what I’ve seen and done\n\n[Bridge 1]\nSleep with a light that is dark to my eyes\nFather and sons give me all of your lies\nThe brutal truth, that is never a lie\nFull moon is out, as you look to the sky\n\n[Instrumental Break]\n\n[Chorus]\nI am not a preacher, I am but a man\nYou cannot imagine what I’ve seen and done\n\n[Guitar Solos]\n\n[Bridge 2]\nOpen your heart and I’ll open your soul\nEven in quieter moments I know\n\n[Chorus]\nI am not a preacher, I am but a man\nYou cannot imagine what I’ve seen and done\n\n[Outro]\nEerie collection, darkness is there\nWedded to danger, betrothed to despair"
         },
         {
             "_id": "766edb74-d704-42c2-97b4-17baed3d22be",
             "track_number": 2.1,
             "title": "Darkest Hour",
-            "lenght": "07:20",
+            "length": "07:20",
             "lyrics": "We buried our sons\nWe turned and fled\nNo growing old\nThe glorious dead\nBut we came back\nBecause one man said\nNow on the beaches\nThe blood runs red\n\nI faced them down\nThe only one\nI stood alone\nAnd warned the day would come\nBut they were wrong\nAppeases every one\nAnd not for the last time\nWe all stand alone\n\nI watch the sun move away\nAs I embrace the night\nAnd my black dog has it's day\nFor six long years you shall not pass\nBarbarians at the gates\nWe will overcome\n\nHere I stand\nIn a serenade of glory\nNaked by the throne of kings\nYou sowed the wind\nAnd now you reaped the whirlwind\nBefore the dawn the darkest hour\n\nThe darkest hour\n\nTo blaze in glory like a dying sun\nOne last burning giant\nTell Jupiter moves on\nTurn the ploughshares into swords\nYou sons of Albion awake\nDefend this sacred land\n\nHere I stand\nIn a serenade of glory\nNaked by the throne of kings\nYou sowed the wind\nAnd now you reaped the whirlwind\nBefore the dawn the darkest hour\n\nThe darkest hour\n\nHere I stand\nIn a serenade of glory\nNaked by the throne of kings\nYou sowed the wind\nAnd now you reaped the whirlwind\nBefore the dawn the darkest hour\n\nHere I stand\nIn a serenade of glory\nNaked by the throne of kings\nYou sowed the wind\nAnd now you reaped the whirlwind\nBefore the dawn the darkest hour\n\nBefore the dawn the darkest hour"
         },
         {
             "_id": "a364d31c-95cb-4d4b-884e-dea2d8bf56ae",
             "track_number": 2.2,
             "title": "Death of the Celts",
-            "lenght": "10:20",
+            "length": "10:20",
             "lyrics": "The road it winds uphill all the way\nRide to glory on this day\nRemember now to do him so proud\nIn God we trust, cry it out loud\n\nRedeem my salve of winning ways\nRemember all the darkest days\nOf that I know will see me tread\nWalketh upon the field of the dead\n\nThe burden of blood, the breaketh of bone\nThe battlefield now I make it my own\nThe glory of the morning we make\nPraying the rose is still awake\n\nLord above my spirit says\nDeath is not proud, no more no less\nPower of my soul will be free\nDeliver us on to victory\n\nWither a pain that’s almost a joy\nWander there my heart will destroy\nDreaming of days of our youth again\nStranger no wonder memories remain\n\nPour thy scorn upon the realm\nPity me none at the gates of our hell\nFor I am but a messenger, one\nSent to do reckoning what must be done\n\nPraying to our wretched doom\nLiberty freedom, maybe death looms\nWishing upon a fair display\nHoping our cause, done faithfully\n\nWayward thunder over rain\nGiving me time to think again\nSend to their graves on this day\nSilent where the battle dead lay\n\nVengeance is for all who lay dead\nI have no fear, my body has bled\nI will live on in rebirth again\nCome to me now, embrace it my friend\n\nSpirits cry for a god from the grave\nIn darkness, fortune favors the brave\n\nDying, a warrior Celt has no fear\nImmortal, for he will live evermore\n\nThink I am that, I’m almost there\nFollowing now, the depths of despair\nBeyond the light darkness will fall\nComing to take the life from us all\n\nFollowing now where god can’t explain\nBidding farewell, the life I’d have gained\nFollowing those who came from hell\nCame to witness the death of the Celts"
         },
         {
             "_id": "2ac3e6a0-2ecb-4da6-bdbe-09869fed352f",
             "track_number": 2.3,
             "title": "The Parchment",
-            "lenght": "12:39",
+            "length": "12:39",
             "lyrics": "When the moon will rise again\nUntil we read the Parthian skin\nBroken fears warring days are here again\n\n‘Fore we all to dust descend\nHeaven knows when life will end\nGod to know in the mire, put out the fire\n\nKnow there is a cross to bear\nIn your primal quest of fear\nNo quarter now is given no less\n\nAslumber was my main ideal\nAsunder did my spirit steal\nSceptered race uttered words in disgrace\n\nSweet revenge will be ours\nVengeance of a shaken world\nJust remember that patience is no sin\n\nAnd to find another way\nLive to breathe another day\nLord of light in the darkness, our guide\n\nIn a tempest never shaken\nEdge of doom is not mistaken\nCountenance is not a sin\nGallant king, we bow to him\n\nFierce as wolf with a leopard skin\nDark and bitter deep within\nInvader punished with his life\nVanquished in the morning\n\nSea of blood in light divine\nUnholy reverence enjoyed\nIntoxicated with their hell\nMan immortal sickness dwell\n\nSavage beasts troops engage\nAssembled here to butcher blades\n\nSmoke has darkened in the air\nSmell of death and deep despair\n\nWilderness a tyrant dream\nSell your soul not give them power\nSlay upon imperial crown\nWitness now the witching hour\n\nBound himself to oath and king\nSuch loyalty a shameless thing\nYouth of agony still burn\nShedding parents blood\n\nNever say a prayer to me\nFor this crime and treachery\nDrinking from your cup of wisdom true\nMany men will follow you\n\nNow an army is raised\nAnd our gods, they be praised\nDeath is but a guilted edge\nShall no more than we will pledge\n\nHear the cry we are ready to believe\n\nThe prodigal has returned\nGive us our own revenge\nWith the power he learned\nWe will burn the same again\n\nA betrayal of angels in a foreign land\nA revenge for the merciful destiny at hand\n\nFor all those who have written\nIn the sand will be told\nThat the same will happen, searching for gold\n\nLike a fire in the sky\nI can feel strength return\nHeading for afterlife, meet me there"
         },
         {
             "_id": "779bce7a-1787-4883-925b-e2316915f650",
             "track_number": 2.4,
             "title": "Hell on Earth",
-            "lenght": "11:19",
+            "length": "11:19",
             "lyrics": "Beginning of a sunrise bores a big hole in the sky\nNot to reason why that\nArmed children are in this world\nAnd fighting in the name of god’s way\nMourning bleak and utter waste\nThe vanity of the world is assured now\n\nPrey upon the weak no more\nThe spirits of those who are gone\nPropaganda of the battles\nThat are lost or won\n\nAnd count your blessings still alive\nOf those who managed to survive\nInside oblivion of that hell on earth\n\nAll you have been, all you have seen\nLost in somewhere in your dreams\n\nHow the angels they have fallen\nAll is nothing what it seems\n\nIn the voices that you hear now\nIn the voices in your head\nNow are thinking of a lifetime\nYou can never feel again\n\nI wish I could go back\nWill never be the same again\nBled for all upon this hell on earth\n\nAnd when I leave this world\nI hope to see you all again\nOn the other side of hell on earth\n\nUpon the eyes of good\nI’m following the light again\nIn between the dark of hell on earth\n\nOn the other side, I’ll see again heaven\nSo far away from this hell on earth\n\nYou dance on the graves who bled for us\nDo you really think they’ll come for us\nKnowledge and virtue taken by lust\nLive on the edge of those that you trust\n\nYou think that you have all the answers for all\nIn your arrogant way only one way to fall\nBurning a lamp that is fire in your hands\nTaking you further from these lands\n\nLove in anger, life in danger\nLost in anger, life in danger\nLove in anger, life in danger\nLost in anger, life in danger"
+        },
+        {
+            "_id": "817e79b2-6707-4260-8ee0-85a3ded61a0c",
+            "track_number": 1,
+            "title": "Gyitwaalkt",
+            "length": "02.14",
+            "lyrics": ""
+        },
+        {
+            "_id": "5732ccfc-ffa5-462f-b582-1fc5deeffde8",
+            "track_number": 2,
+            "title": "Ueesoo",
+            "length": "09.25",
+            "lyrics": ""
+        },
+        {
+            "_id": "4f260c65-d210-4a8e-ad50-062bcfec26ce",
+            "track_number": 3,
+            "title": "Gyitwaalkt",
+            "length": "05.58",
+            "lyrics": ""
+        },
+        {
+            "_id": "8057b6cc-3a98-4e28-9a75-2311895461c8",
+            "track_number": 4,
+            "title": "Transcending into the Spirit of the Gyibaaw",
+            "length": "06:17",
+            "lyrics": ""
+        },
+        {
+            "_id": "157895dd-ef44-42bb-98d5-d4bb8e9b29dc",
+            "track_number": 5,
+            "title": "Gisigwilgwelk",
+            "length": "02:35",
+            "lyrics": ""
+        },
+        {
+            "_id": "c32f1502-6712-4c51-8e08-15b53761f007",
+            "track_number": 6,
+            "title": "Diiltk",
+            "length": "02:54",
+            "lyrics": ""
+        },
+        {
+            "_id": "ad42d91b-ddd7-42ea-ac08-3aa6446cef96",
+            "track_number": 7,
+            "title": "Prepare for War",
+            "length": "00:59",
+            "lyrics": ""
+        },
+        {
+            "_id": "b2e8cffd-0409-4226-8135-6548fc49a579",
+            "track_number": 8,
+            "title": "Wilduu Spagaytgangan",
+            "length": "06:08",
+            "lyrics": ""
+        },
+        {
+            "_id": "ac4f1148-a294-4c55-86d1-8159c5d624ca",
+            "track_number": 9,
+            "title": "Nekt",
+            "length": "10:37",
+            "lyrics": ""
         }
     ],
     "reviews": [
@@ -345,6 +508,10 @@
         {
             "_id": "51bc6b97-e6eb-4854-bd2c-b1977fb28a3f",
             "label": "Vocals"
+        },
+        {
+            "_id": "50a0cc87-3a53-43b3-b70c-19be4de58e94",
+            "label": "Guitars"
         }
     ]
 }
