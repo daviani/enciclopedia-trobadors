@@ -1,5 +1,5 @@
 const Discography = () => {
-	return <h1>Label</h1>;
+	return <h1>Discography</h1>;
 };
 
 export default Discography;
