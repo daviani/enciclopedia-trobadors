@@ -1,14 +1,13 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import data from '../assets/data.json';
+import { getBandById } from '../DataSource';
 
 const Band = () => {
-	const allBands = data.bands;
 	const params = useParams();
 	const [currentBand, setCurrentBand] = useState([]);
 
 	useEffect(() => {
-		let selectedBand = allBands.find(({ _id }) => _id === params.id);
+		let selectedBand = getBandById(params.id);
 		setCurrentBand(selectedBand);
 	}, []);
 

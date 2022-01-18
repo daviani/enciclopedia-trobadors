@@ -1,8 +1,11 @@
 import { Link } from 'react-router-dom';
-import data from '../assets/data.json';
+import { getAllBands } from '../DataSource';
+import { useEffect, useState } from 'react';
 
 const Bands = () => {
-	const bands = data.bands;
+	const [bands, setBands] = useState([]);
+
+	useEffect(() => setBands(getAllBands()));
 
 	return (
 		<>
