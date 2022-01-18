@@ -1,8 +1,11 @@
 import { Link } from 'react-router-dom';
-import data from '../assets/data.json';
+import { getAllDiscographies } from '../DataSource';
+import { useEffect, useState } from 'react';
 
 const Discographies = () => {
-	const discographies = data.discographies;
+	const [discographies, setDiscographies] = useState([]);
+
+	useEffect(() => setDiscographies(getAllDiscographies()));
 
 	return (
 		<>
