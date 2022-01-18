@@ -1,8 +1,12 @@
 import { Link } from 'react-router-dom';
-import data from '../assets/data.json';
+import { useEffect, useState } from 'react';
+import { getAllLabels } from '../DataSource';
 
 const Labels = () => {
-	const labels = data.labels;
+	const [labels, setLabels] = useState([]);
+
+	useEffect(() => setLabels(getAllLabels()));
+
 	return (
 		<>
 			<h1>Labels</h1>

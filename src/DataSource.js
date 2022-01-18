@@ -13,8 +13,22 @@ const getAllDiscographies = () => {
 };
 
 const getDiscographyById = (id) => {
-	console.log('dataSource', id);
 	return data.discographies.find(({ _id }) => _id === id);
 };
 
-export { getAllBands, getBandById, getAllDiscographies, getDiscographyById };
+const getAllLabels = () => {
+	return data.labels;
+};
+
+const getLabelById = (id) => {
+	return data.labels.find(({ _id }) => _id === id);
+};
+
+export {
+	getAllBands,
+	getBandById,
+	getAllDiscographies,
+	getDiscographyById,
+	getAllLabels,
+	getLabelById,
+};
