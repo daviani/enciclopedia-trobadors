@@ -8,9 +8,7 @@ const Band = () => {
 	const [currentBand, setCurrentBand] = useState([]);
 
 	useEffect(() => {
-		let selectedBand = allBands.find((band) => {
-			return band._id === params.id;
-		});
+		let selectedBand = allBands.find(({ _id }) => _id === params.id);
 		setCurrentBand(selectedBand);
 	}, []);
 
